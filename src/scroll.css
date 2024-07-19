@@ -1,0 +1,16 @@
+
+
+.scrollindi{
+    position: relative;
+    transition: 0.2s;
+}
+
+.scrollindibox{
+    transition: 0.5s;
+    position: sticky;
+    border: 2px solid black;
+    height: fit-content;
+    top: 0;
+    width: 100%;
+}
+
